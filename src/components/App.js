@@ -1,6 +1,6 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import Calender from './calender.js'
+import Calender from './calender'
 
 const App = () => {
   return (
@@ -9,6 +9,5 @@ const App = () => {
     </div>
   )
 }
-
 
 export default App;
